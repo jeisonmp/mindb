@@ -1,0 +1,3 @@
+//SELECT table WHERE;
+//SELECT table WHERE id = 1;
+//

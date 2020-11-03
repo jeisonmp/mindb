@@ -1,0 +1,65 @@
+data/SGBD.sln.i
+data/img/codigo 7 - a thread server.JPG.i
+data/headers/Thread.h.i
+data/img/codigo 9 - requisitionthread invocando server-run.JPG.i
+data/headers/ws2tcpip.h.i
+data/headers/dirent.h.i
+data/headers/SGBD.h.i
+data/src/Action.cpp.i
+data/Entities/carro.txt.i
+data/config.h.i
+data/img/codigo 10 - servidor repassa requisicao para SGBD.JPG.i
+data/headers/entity.h.i
+data/headers/Action.h.i
+data/SGBD.VC.VC.opendb.i
+data/img/codigo 6 - classe sgbdthread.JPG.i
+data/Entities/pfisica.txt.i
+data/SGBD.vcxproj.i
+data/headers/Client.h.i
+data/img/codigo 1.JPG.i
+data/img/codigo 2.JPG.i
+data/img/codigo 2-2.JPG.i
+data/headers/requisition.h.i
+data/img/Diagrama Funcionamento Antigo Servidor de Mensagens.html.i
+data/headers/Bcp.h.i
+data/src/requisition.cpp.i
+data/LICENSE.txt.i
+data/doc/Apresentacao.pdf.i
+data/img/codigo 5 - classe entity.JPG.i
+data/SGBD.VC.db.i
+data/SGBD.VC.db.d
+data/img/thread.JPG.i
+data/doc/Apresentacao.pdf.d
+data/headers/winsock2.h.i
+data/img/codigo 4 - lendo as entidades.JPG.i
+data/headers/Server.h.i
+data/src/server.cpp.i
+data/img/Diagrama Funcionamento Antigo Servidor de Mensagens.png.i
+data/img/codigo 11 - requisicao do SGBD - acordando uma Entidade.JPG.i
+data/img/Diagrama de Funcionamento do Servidor de Banco de Dados.html.i
+data/src/SGBD.cpp.i
+data/img/codigo 12 - arquivo de dados baseado em xml.JPG.i
+data/src/entity.cpp.i
+data/.hgignore.i
+data/src/Client.cpp.i
+data/headers/Help.h.i
+data/img/etapas de execucao.JPG.i
+data/mainServer.cpp.i
+data/img/codigo 8 - metodo received.JPG.i
+data/img/codigo 3.JPG.i
+data/img/Diagrama de Funcionamento do Servidor de Banco de Dados.png.i
+data/img/codigo 5.1 - construtor entity.JPG.i
+data/src/Protocol.cpp.i
+data/src/Thread.cpp.i
+data/img/codigo 2-1.JPG.i
+data/doc/db_mdb.mwb.i
+data/Entities/regemp.txt.i
+data/README.md.i
+data/SGBD.sdf.i
+data/img/thread 2.JPG.i
+data/SGBD.vcxproj.filters.i
+data/mainClient.cpp.i
+data/doc/db_mdb.mwb.bak.i
+data/SGBD.sdf.d
+data/headers/Protocol.h.i
+data/src/Bcp.cpp.i

@@ -1,0 +1,5 @@
+<id>1</id><nome>max</nome><idade>32</idade>
+<id>2</id><nome>pedro</nome><idade>30</idade>
+<id>3</id><nome>claudio</nome><idade>52</idade>
+<id>4</id><nome>fernanda</nome><idade>18</idade>
+<id>5</id><nome>sabrina</nome><idade>22</idade>
